@@ -17,7 +17,7 @@ I'm an Android Developer with experience in Kotlin, Jetpack Compose, and CameraX
 
 ## :technologist: Languages and Tools Used :
 <p align="left"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" style="margin-right: 10px;"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" style="margin-right: 10px;"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="margin-right: 10px;"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="jetpack-compose"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="margin-right: 10px;"/>
