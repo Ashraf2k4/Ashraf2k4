@@ -9,8 +9,8 @@ I'm an Android Developer with experience in Kotlin, Jetpack Compose, and CameraX
 - **Tools:** Git, Android Studio, Gradle
 
 ## 💼 Projects:
-- **[Plant Disease Detection App](https://github.com/your-username/plant-disease-detection):** A machine learning-powered app to detect plant diseases.
-- **[Carbon Footprint Tracker](https://github.com/your-username/carbon-footprint-tracker):** An Android app that predicts carbon emissions based on user input.
+- **[PixaHub]():** An android wallpaper app that uses pixabay api to fetch images from pixabay adn implements search feature.
+-
 
 ## 🌱 Currently Learning:
 - Advanced Jetpack Compose techniques
