@@ -8,6 +8,19 @@ I'm an Android Developer with experience in Kotlin, Jetpack Compose, and CameraX
 - **Backend:** Firebase, RESTful APIs, Flask
 - **Tools:** Git, Android Studio, Gradle
 
+- :technologist: **Languages and Tools Used :-**:-
+<br/> [<img height="80" width="100" src="https://cdn0.desidime.com/topics/photos/1421274/original/Screenshot_2022-04-10_at_1.36.37_PM.png?1649578014"/>](https://auth.geeksforgeeks.org/user/Ashraf2k4/profile)
+<p align="left"> 
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="jetpack-compose"/>
+</p>
+
 ## 💼 Projects:
 - **[PixaHub](https://github.com/Ashraf2k4/PixaHub):** An android wallpaper app that uses pixabay api to fetch images from pixabay adn implements search feature.
 -
