@@ -1,4 +1,11 @@
 # Hi there! I'm [Ashraf ali] 👋
+```kotlin
+fun welcomeToMyProfile() {
+    val userName = "Ashraf Ali"
+    println("Hello there! Welcome, $userName! 👨‍💻")
+    println("Let's build amazing Android apps with Kotlin and Jetpack Compose 🚀")
+}
+```
 I'm an Android Developer with experience in Kotlin, Jetpack Compose, and CameraX. I love building robust, user-friendly apps and integrating cutting-edge features like machine learning and dynamic UI updates.
 
 ## 🚀 My Skills:
