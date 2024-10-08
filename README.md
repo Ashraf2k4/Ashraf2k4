@@ -8,8 +8,7 @@ I'm an Android Developer with experience in Kotlin, Jetpack Compose, and CameraX
 - **Backend:** Firebase, RESTful APIs, Flask
 - **Tools:** Git, Android Studio, Gradle
 
-- :technologist: **Languages and Tools Used :-**:-
-<br/> [<img height="80" width="100" src="https://cdn0.desidime.com/topics/photos/1421274/original/Screenshot_2022-04-10_at_1.36.37_PM.png?1649578014"/>](https://auth.geeksforgeeks.org/user/Ashraf2k4/profile)
+## Languages and Tools Used :
 <p align="left"> 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
